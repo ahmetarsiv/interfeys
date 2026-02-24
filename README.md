@@ -1,4 +1,4 @@
-<p align="center"><img src="https://codenteq.com/wp-content/uploads/2024/03/interfeys-logo.webp" width="250" alt="İnterfeys Design System Logo" /></p>
+<p align="center"><img src="https://opensource.codenteq.com/wp-content/uploads/2024/03/interfeys-logo.webp" width="250" alt="İnterfeys Design System Logo" /></p>
 
 <h1 align="center">Interfeys Design System</h1>
 
